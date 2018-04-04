@@ -1,0 +1,229 @@
+ol {
+    display: none;
+    margin-top: 3.5em;
+    margin-left: -120px;
+}
+
+ol li {
+    box-shadow: 0em 0em 1.2em 0.7em #333;
+
+}
+
+ol li a{
+   height: 50px;
+   color: blue;
+}
+
+nav ul li:hover ol {
+   display: inline;
+   position: absolute; 
+}
+
+.gauges {
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    display: inline;
+    margin-top: -5px;
+    transform: rotate(180deg);
+    margin-left: 33px;
+    margin-right: -43px;
+    animation: digiSweep;
+    animation-duration: 10s;
+    background-image: url('/assets/images/Dial_Needle.png');
+}
+
+
+
+/* begining of needing keyframes */
+
+.exhausttempGauge {
+    animation: digiSweep 10s, voltage 3s ease-in 10.8s forwards;
+    animation-repeat: true;
+    animation-iteration-count: infinite;
+}
+
+.oilpressureGauge {
+    animation: digiSweep 10s, voltage 3s ease-in 10.8s forwards;
+    animation-repeat: true;
+    animation-iteration-count: infinite;
+}
+
+.oiltempGauge {
+    animation: digiSweep 10s, voltage 3s ease-in 10.8s forwards;
+    animation-repeat: true;
+    animation-iteration-count: infinite;
+}
+
+/* ending of needing keyframes */
+
+
+
+
+.voltGauge {
+    animation: digiSweep 10s, voltage 3s ease-in 10.8s forwards;
+    animation-repeat: true;
+    animation-iteration-count: infinite;
+}
+
+.widebandGauge {
+    animation: digiSweep 10s, wideband 3s ease-in 10.8s forwards;
+    animation-repeat: true;
+    animation-iteration-count: infinite;
+    margin-top: 35px;
+    margin-left: 610px;
+    display: fixed;
+}
+
+.boostGauge {
+    animation: digiSweep 10s, boostgauge 3s ease-in 10.8s forwards;
+    animation-repeat: true;
+    animation-iteration-count: infinite;
+}
+
+.waterTempGauge {
+    animation: digiSweep 10s, watertemp 3s ease-in 10.8s forwards;
+    animation-repeat: true;
+    animation-iteration-count: infinite;
+    margin-top: 35px;
+    margin-left: 35px;
+    display: fixed;
+}
+
+.boost-right {
+    margin-left: 610px;
+}
+
+@keyframes voltage {
+    0% {
+        transform: rotate(220deg);
+    }
+
+    8% {
+        transform: rotate(225deg);
+    }
+
+    16 {
+        transform: rotate(230deg);
+    }
+
+    25% {
+        transform: rotate(235deg);
+    }
+
+    50% {
+        transform: rotate(260deg);
+    }
+
+    75% {
+        transform: rotate(235deg);
+    }
+
+    100% {
+        transform: rotate(220deg);
+    }
+}
+
+@keyframes watertemp {
+    0% {
+        transform: rotate(220deg);
+    }
+
+    8% {
+        transform: rotate(225deg);
+    }
+
+    16 {
+        transform: rotate(230deg);
+    }
+
+    25% {
+        transform: rotate(235deg);
+    }
+
+    50% {
+        transform: rotate(260deg);
+    }
+
+    75% {
+        transform: rotate(235deg);
+    }
+
+    100% {
+        transform: rotate(220deg);
+    }
+}
+
+@keyframes wideband {
+    0% {
+        transform: rotate(200deg);
+    }
+
+    8% {
+        transform: rotate(215deg);
+    }
+
+    16 {
+        transform: rotate(230deg);
+    }
+
+    25% {
+        transform: rotate(235deg);
+    }
+
+    50% {
+        transform: rotate(240deg);
+    }
+
+    75% {
+        transform: rotate(235deg);
+    }
+
+    100% {
+        transform: rotate(200deg);
+    }
+}
+
+@keyframes boostgauge {
+    0% {
+        transform: rotate(150deg);
+    }
+
+    8% {
+        transform: rotate(215deg);
+    }
+
+    16 {
+        transform: rotate(230deg);
+    }
+
+    25% {
+        transform: rotate(235deg);
+    }
+
+    50% {
+        transform: rotate(240deg);
+    }
+
+    75% {
+        transform: rotate(235deg);
+    }
+
+    100% {
+        transform: rotate(230deg);
+    }   
+}
+
+@keyframes digiSweep {
+    0%    {
+        transform: rotate(110deg);
+    }
+
+    50%    {
+        transform: rotate(360deg);
+    }
+
+    100%    {
+        transform: rotate(110deg);
+    }
+}

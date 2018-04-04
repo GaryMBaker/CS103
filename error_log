@@ -1,0 +1,580 @@
+[29-Jun-2016 16:30:21 Pacific/Auckland] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'garybake_Admin'@'localhost' (using password: YES) in /home/garybake/public_html/_Assignments/WE03/app/libraries/database.lib.php on line 38
+[29-Jun-2016 16:30:21 Pacific/Auckland] PHP Warning:  App\Database::__construct(): Couldn't fetch mysqli in /home/garybake/public_html/_Assignments/WE03/app/libraries/database.lib.php on line 40
+[29-Jun-2016 16:33:42 Pacific/Auckland] PHP Fatal error:  Cannot redeclare class Site in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 9
+[29-Jun-2016 16:34:13 Pacific/Auckland] PHP Fatal error:  Cannot redeclare class Site in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 15
+[29-Jun-2016 16:34:32 Pacific/Auckland] PHP Fatal error:  Cannot redeclare class Site in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 15
+[29-Jun-2016 16:34:33 Pacific/Auckland] PHP Fatal error:  Cannot redeclare class Site in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 15
+[29-Jun-2016 16:35:34 Pacific/Auckland] PHP Warning:  file_get_contents(app/views/header.php): failed to open stream: No such file or directory in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php on line 7
+[29-Jun-2016 16:35:34 Pacific/Auckland] PHP Warning:  file_get_contents(app/views/login.php): failed to open stream: No such file or directory in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php on line 7
+[29-Jun-2016 16:35:34 Pacific/Auckland] PHP Warning:  file_get_contents(app/views/footer.php): failed to open stream: No such file or directory in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php on line 7
+[29-Jun-2016 16:36:11 Pacific/Auckland] PHP Fatal error:  Class 'Auth' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 6
+[29-Jun-2016 16:36:35 Pacific/Auckland] PHP Warning:  file_get_contents(app/views/header.php): failed to open stream: No such file or directory in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php on line 7
+[29-Jun-2016 16:36:35 Pacific/Auckland] PHP Warning:  file_get_contents(app/views/login.php): failed to open stream: No such file or directory in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php on line 7
+[29-Jun-2016 16:36:35 Pacific/Auckland] PHP Warning:  file_get_contents(app/views/footer.php): failed to open stream: No such file or directory in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php on line 7
+[29-Jun-2016 16:38:37 Pacific/Auckland] PHP Warning:  Missing argument 2 for Form::label(), called in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 2 and defined in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 95
+[29-Jun-2016 16:44:21 Pacific/Auckland] PHP Warning:  Division by zero in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 6
+[29-Jun-2016 16:44:21 Pacific/Auckland] PHP Warning:  Division by zero in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 6
+[29-Jun-2016 16:44:25 Pacific/Auckland] PHP Warning:  Division by zero in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 6
+[29-Jun-2016 16:44:25 Pacific/Auckland] PHP Warning:  Division by zero in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 6
+[29-Jun-2016 17:01:54 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ',' in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 29
+[29-Jun-2016 17:02:04 Pacific/Auckland] PHP Fatal error:  Class 'User' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 20
+[29-Jun-2016 17:02:18 Pacific/Auckland] PHP Fatal error:  Class 'URL' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 41
+[29-Jun-2016 17:28:54 Pacific/Auckland] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Site' does not have a method 'loggingin' in /home/garybake/public_html/_Assignments/WE03/app/libraries/route.lib.php on line 105
+[29-Jun-2016 17:30:34 Pacific/Auckland] PHP Fatal error:  Class 'User' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 10
+[29-Jun-2016 17:41:46 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/garybake/public_html/_Assignments/WE03/app/routes.php on line 18
+[29-Jun-2016 17:41:54 Pacific/Auckland] PHP Warning:  Missing argument 2 for Form::hidden(), called in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 5 and defined in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 185
+[29-Jun-2016 17:45:57 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/garybake/public_html/_Assignments/WE03/app/routes.php on line 18
+[29-Jun-2016 17:47:24 Pacific/Auckland] PHP Fatal error:  Class 'Auth' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 28
+[29-Jun-2016 17:58:56 Pacific/Auckland] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Admin' does not have a method 'userpage' in /home/garybake/public_html/_Assignments/WE03/app/libraries/route.lib.php on line 105
+[29-Jun-2016 18:02:30 Pacific/Auckland] PHP Fatal error:  Class 'User' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 34
+[29-Jun-2016 18:04:40 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '<' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 5
+[29-Jun-2016 18:05:01 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 2
+[29-Jun-2016 18:07:01 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 2
+[29-Jun-2016 18:07:03 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 2
+[29-Jun-2016 18:13:17 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'View' (T_STRING) in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 39
+[29-Jun-2016 18:14:19 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 35
+[29-Jun-2016 18:21:23 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '<' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 10
+[30-Jun-2016 16:40:17 Pacific/Auckland] PHP Warning:  file_get_contents(app/views/shop.php): failed to open stream: No such file or directory in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php on line 7
+[30-Jun-2016 16:41:21 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 1
+[30-Jun-2016 16:43:44 Pacific/Auckland] PHP Fatal error:  Class 'Products' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 19
+[30-Jun-2016 16:44:09 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 1
+[30-Jun-2016 16:54:00 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::get() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 19
+[30-Jun-2016 16:54:50 Pacific/Auckland] PHP Warning:  Missing argument 1 for App\Model\Model::load(), called in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 20 and defined in /home/garybake/public_html/_Assignments/WE03/app/libraries/model.lib.php on line 148
+[30-Jun-2016 16:58:22 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 24
+[30-Jun-2016 17:03:23 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 1
+[30-Jun-2016 17:03:28 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 1
+[30-Jun-2016 17:03:39 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 1
+[30-Jun-2016 17:06:07 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::deleted() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 20
+[30-Jun-2016 17:16:00 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 1
+[30-Jun-2016 17:16:13 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 1
+[30-Jun-2016 17:16:24 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 1
+[30-Jun-2016 17:16:30 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 1
+[30-Jun-2016 17:16:35 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 1
+[30-Jun-2016 17:34:04 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::get() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 19
+[30-Jun-2016 17:34:41 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 1
+[30-Jun-2016 17:45:05 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 9
+[30-Jun-2016 17:45:08 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 9
+[30-Jun-2016 18:10:24 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 1
+[30-Jun-2016 18:10:42 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 1
+[30-Jun-2016 18:10:44 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 1
+[30-Jun-2016 18:11:25 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 1
+[30-Jun-2016 18:11:30 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ')' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 1
+[30-Jun-2016 18:29:15 Pacific/Auckland] PHP Warning:  Missing argument 1 for App\Model\Model::load(), called in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 20 and defined in /home/garybake/public_html/_Assignments/WE03/app/libraries/model.lib.php on line 148
+[30-Jun-2016 18:39:37 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 1
+[30-Jun-2016 18:40:10 Pacific/Auckland] PHP Warning:  extract() expects parameter 1 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php on line 12
+[30-Jun-2016 18:40:10 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 1
+[30-Jun-2016 18:40:25 Pacific/Auckland] PHP Warning:  extract() expects parameter 1 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php on line 12
+[30-Jun-2016 18:40:45 Pacific/Auckland] PHP Warning:  extract() expects parameter 1 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php on line 12
+[30-Jun-2016 18:40:45 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 1
+[30-Jun-2016 18:44:59 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::load() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 19
+[30-Jun-2016 18:49:12 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 1
+[30-Jun-2016 21:00:54 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ')' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 12
+[30-Jun-2016 21:01:04 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '">Edit</a>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 14
+[30-Jun-2016 21:01:22 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '">Edit</a>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 14
+[30-Jun-2016 21:01:44 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '">Edit</a>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 14
+[30-Jun-2016 21:02:01 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '">Edit</a>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 14
+[30-Jun-2016 21:04:43 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '">Edit</a>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 13
+[30-Jun-2016 22:40:14 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '">Edit</a>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 13
+[30-Jun-2016 22:54:59 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting '&' or variable (T_VARIABLE) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 17
+[30-Jun-2016 22:55:06 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ''1'' (T_CONSTANT_ENCAPSED_STRING), expecting '&' or variable (T_VARIABLE) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 17
+[30-Jun-2016 22:55:13 Pacific/Auckland] PHP Warning:  Missing argument 1 for Site::shop() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 17
+[30-Jun-2016 23:01:08 Pacific/Auckland] PHP Fatal error:  Class 'Auth' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 16
+[30-Jun-2016 23:07:51 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '$item' (T_VARIABLE), expecting ',' or ';' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 21
+[30-Jun-2016 23:08:11 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '?' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 21
+[30-Jun-2016 23:08:27 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '?' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 21
+[30-Jun-2016 23:09:39 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::load() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 30
+[30-Jun-2016 23:10:15 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::soft_delete() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 32
+[30-Jun-2016 23:12:31 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::soft_delete() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 32
+[30-Jun-2016 23:12:50 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::soft_delete() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 32
+[30-Jun-2016 23:13:03 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::delete() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 32
+[30-Jun-2016 23:13:53 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::delete() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 33
+[30-Jun-2016 23:14:16 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::delete() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 33
+[30-Jun-2016 23:14:17 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::delete() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 33
+[30-Jun-2016 23:16:05 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'URL' (T_STRING) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 37
+[30-Jun-2016 23:16:30 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '}' in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 38
+[30-Jun-2016 23:18:25 Pacific/Auckland] PHP Fatal error:  Class '1' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/collection.lib.php on line 63
+[30-Jun-2016 23:18:40 Pacific/Auckland] PHP Fatal error:  Class name must be a valid object or a string in /home/garybake/public_html/_Assignments/WE03/app/libraries/collection.lib.php on line 63
+[30-Jun-2016 23:22:27 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::delete() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 31
+[30-Jun-2016 23:22:39 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::soft_delete() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 31
+[30-Jun-2016 23:22:59 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::delete() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 31
+[30-Jun-2016 23:23:08 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::soft_delete() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 31
+[30-Jun-2016 23:23:26 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::delete() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 32
+[30-Jun-2016 23:23:27 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::delete() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 32
+[30-Jun-2016 23:25:32 Pacific/Auckland] PHP Fatal error:  Class 'Post' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 46
+[30-Jun-2016 23:25:51 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::load() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 49
+[30-Jun-2016 23:26:04 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::load() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 49
+[30-Jun-2016 23:26:31 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::soft_delete() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 52
+[30-Jun-2016 23:26:38 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::hard_delete() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 52
+[30-Jun-2016 23:27:11 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::delete() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 52
+[30-Jun-2016 23:30:11 Pacific/Auckland] PHP Fatal error:  Class 'Product' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 46
+[30-Jun-2016 23:35:08 Pacific/Auckland] PHP Fatal error:  Class 'Product' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 63
+[30-Jun-2016 23:41:46 Pacific/Auckland] PHP Warning:  Missing argument 2 for Form::input(), called in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 70 and defined in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 55
+[30-Jun-2016 23:47:30 Pacific/Auckland] PHP Warning:  Missing argument 2 for Form::input(), called in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 3 and defined in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 55
+[30-Jun-2016 23:47:33 Pacific/Auckland] PHP Warning:  Missing argument 2 for Form::input(), called in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 3 and defined in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 55
+[30-Jun-2016 23:52:46 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 5
+[30-Jun-2016 23:53:02 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 61
+[30-Jun-2016 23:53:02 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[30-Jun-2016 23:53:32 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ',' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 5
+[30-Jun-2016 23:53:39 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 61
+[30-Jun-2016 23:53:39 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[30-Jun-2016 23:54:33 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 5
+[30-Jun-2016 23:54:40 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '=' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 5
+[30-Jun-2016 23:54:48 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 61
+[30-Jun-2016 23:54:48 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[30-Jun-2016 23:56:08 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 61
+[30-Jun-2016 23:56:08 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[30-Jun-2016 23:56:10 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 61
+[30-Jun-2016 23:56:10 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[01-Jul-2016 00:39:28 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 83
+[01-Jul-2016 00:41:02 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/model.lib.php on line 194
+[01-Jul-2016 00:41:47 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::load() in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 78
+[01-Jul-2016 00:44:33 Pacific/Auckland] PHP Warning:  Missing argument 1 for Admin::edit() in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 72
+[01-Jul-2016 00:45:27 Pacific/Auckland] PHP Warning:  Missing argument 1 for Admin::edit() in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 72
+[01-Jul-2016 02:12:01 Pacific/Auckland] PHP Warning:  Missing argument 1 for Admin::edit() in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 72
+[01-Jul-2016 02:13:18 Pacific/Auckland] PHP Warning:  Missing argument 1 for Admin::edit() in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 72
+[01-Jul-2016 02:13:28 Pacific/Auckland] PHP Warning:  Missing argument 1 for Admin::edit() in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 72
+[01-Jul-2016 02:20:44 Pacific/Auckland] PHP Warning:  Missing argument 1 for Admin::edit() in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 72
+[01-Jul-2016 02:21:05 Pacific/Auckland] PHP Warning:  Missing argument 1 for Admin::edit() in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 72
+[01-Jul-2016 02:21:24 Pacific/Auckland] PHP Warning:  Missing argument 1 for Admin::edit() in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 72
+[01-Jul-2016 02:21:24 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/model.lib.php on line 194
+[01-Jul-2016 02:22:20 Pacific/Auckland] PHP Warning:  Missing argument 1 for Admin::edit() in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 72
+[01-Jul-2016 02:26:07 Pacific/Auckland] PHP Warning:  Missing argument 1 for Admin::edit() in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 72
+[01-Jul-2016 02:27:01 Pacific/Auckland] PHP Warning:  Missing argument 1 for Admin::edit() in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 72
+[01-Jul-2016 02:28:22 Pacific/Auckland] PHP Warning:  Missing argument 2 for Form::hidden(), called in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 7 and defined in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 185
+[01-Jul-2016 02:29:01 Pacific/Auckland] PHP Warning:  Missing argument 1 for Admin::edit() in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 72
+[01-Jul-2016 02:29:06 Pacific/Auckland] PHP Warning:  Missing argument 1 for Admin::edit() in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 72
+[01-Jul-2016 02:29:55 Pacific/Auckland] PHP Warning:  Missing argument 1 for Admin::edit() in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 72
+[01-Jul-2016 02:30:21 Pacific/Auckland] PHP Warning:  Missing argument 1 for Admin::edit() in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 72
+[01-Jul-2016 02:41:27 Pacific/Auckland] PHP Fatal error:  Cannot declare class Cart because the name is already in use in /home/garybake/public_html/_Assignments/WE03/app/controllers/cart.php on line 7
+[01-Jul-2016 02:43:24 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '}' in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 20
+[01-Jul-2016 02:43:25 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '}' in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 20
+[01-Jul-2016 02:43:27 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '}' in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 20
+[01-Jul-2016 02:43:38 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ')' in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 17
+[01-Jul-2016 02:46:29 Pacific/Auckland] PHP Fatal error:  Call to a member function username() on a non-object in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 17
+[01-Jul-2016 02:49:04 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ')' in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 17
+[01-Jul-2016 02:49:13 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '}' in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 19
+[01-Jul-2016 02:49:41 Pacific/Auckland] PHP Fatal error:  Class 'Cart' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/route.lib.php on line 102
+[01-Jul-2016 02:49:56 Pacific/Auckland] PHP Fatal error:  Class 'Cart' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/route.lib.php on line 102
+[01-Jul-2016 02:49:56 Pacific/Auckland] PHP Fatal error:  Class 'Cart' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/route.lib.php on line 102
+[01-Jul-2016 02:50:07 Pacific/Auckland] PHP Fatal error:  Class 'Cart' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/route.lib.php on line 102
+[01-Jul-2016 02:50:30 Pacific/Auckland] PHP Fatal error:  Cannot use App\Cart as Cart because the name is already in use in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 5
+[01-Jul-2016 02:50:40 Pacific/Auckland] PHP Fatal error:  Class 'Cart' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/route.lib.php on line 102
+[01-Jul-2016 02:50:47 Pacific/Auckland] PHP Fatal error:  Class 'Cart' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/route.lib.php on line 102
+[01-Jul-2016 02:50:48 Pacific/Auckland] PHP Fatal error:  Class 'Cart' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/route.lib.php on line 102
+[01-Jul-2016 02:50:49 Pacific/Auckland] PHP Fatal error:  Class 'Cart' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/route.lib.php on line 102
+[01-Jul-2016 02:50:50 Pacific/Auckland] PHP Fatal error:  Class 'Cart' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/route.lib.php on line 102
+[01-Jul-2016 02:50:56 Pacific/Auckland] PHP Fatal error:  Class 'Cart' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/route.lib.php on line 102
+[01-Jul-2016 02:50:57 Pacific/Auckland] PHP Fatal error:  Class 'Cart' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/route.lib.php on line 102
+[01-Jul-2016 02:50:57 Pacific/Auckland] PHP Fatal error:  Class 'Cart' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/route.lib.php on line 102
+[01-Jul-2016 02:50:57 Pacific/Auckland] PHP Fatal error:  Class 'Cart' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/route.lib.php on line 102
+[01-Jul-2016 02:50:58 Pacific/Auckland] PHP Fatal error:  Class 'Cart' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/route.lib.php on line 102
+[01-Jul-2016 02:51:01 Pacific/Auckland] PHP Fatal error:  Cannot use App\Cart as Cart because the name is already in use in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 5
+[01-Jul-2016 02:51:27 Pacific/Auckland] PHP Fatal error:  Class 'Cart' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/route.lib.php on line 102
+[01-Jul-2016 02:51:42 Pacific/Auckland] PHP Fatal error:  Class 'Cart' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/route.lib.php on line 102
+[01-Jul-2016 02:51:43 Pacific/Auckland] PHP Fatal error:  Class 'Cart' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/route.lib.php on line 102
+[01-Jul-2016 02:51:53 Pacific/Auckland] PHP Fatal error:  Class 'Cart' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/route.lib.php on line 102
+[01-Jul-2016 02:51:54 Pacific/Auckland] PHP Fatal error:  Class 'Cart' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/route.lib.php on line 102
+[01-Jul-2016 02:51:55 Pacific/Auckland] PHP Fatal error:  Class 'Cart' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/route.lib.php on line 102
+[01-Jul-2016 02:52:09 Pacific/Auckland] PHP Fatal error:  Class 'Cart' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/route.lib.php on line 102
+[01-Jul-2016 02:52:29 Pacific/Auckland] PHP Fatal error:  Class 'Cart' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/route.lib.php on line 102
+[01-Jul-2016 02:52:45 Pacific/Auckland] PHP Fatal error:  Class 'Cart' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/route.lib.php on line 102
+[01-Jul-2016 02:53:04 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '}' in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 19
+[01-Jul-2016 02:54:24 Pacific/Auckland] PHP Fatal error:  Class 'Auth' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 9
+[01-Jul-2016 02:54:57 Pacific/Auckland] PHP Fatal error:  Class 'App\Model\Collection\Cart' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 17
+[01-Jul-2016 02:55:05 Pacific/Auckland] PHP Warning:  Missing argument 2 for App\Cart::add_product(), called in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 18 and defined in /home/garybake/public_html/_Assignments/WE03/app/libraries/cart.lib.php on line 39
+[01-Jul-2016 02:55:57 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ';' in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 18
+[01-Jul-2016 03:11:35 Pacific/Auckland] PHP Fatal error:  Call to private method App\Cart::create_cart() from context 'Orders' in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 18
+[01-Jul-2016 03:11:47 Pacific/Auckland] PHP Fatal error:  Call to private method App\Cart::create_cart() from context 'Orders' in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 18
+[01-Jul-2016 03:11:49 Pacific/Auckland] PHP Fatal error:  Call to private method App\Cart::create_cart() from context 'Orders' in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 18
+[01-Jul-2016 03:11:58 Pacific/Auckland] PHP Fatal error:  Call to private method App\Cart::create_cart() from context 'Orders' in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 19
+[01-Jul-2016 03:11:59 Pacific/Auckland] PHP Fatal error:  Call to private method App\Cart::create_cart() from context 'Orders' in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 19
+[01-Jul-2016 03:14:50 Pacific/Auckland] PHP Fatal error:  Class 'URL' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 38
+[01-Jul-2016 03:15:13 Pacific/Auckland] PHP Fatal error:  Class 'URL' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 38
+[01-Jul-2016 03:15:18 Pacific/Auckland] PHP Fatal error:  Class 'URL' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 38
+[01-Jul-2016 03:16:23 Pacific/Auckland] PHP Fatal error:  Class 'App\Model\URL' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 39
+[01-Jul-2016 04:00:08 Pacific/Auckland] PHP Fatal error:  Class 'Cart' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 5
+[01-Jul-2016 04:00:11 Pacific/Auckland] PHP Fatal error:  Class 'Cart' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 5
+[01-Jul-2016 04:01:20 Pacific/Auckland] PHP Fatal error:  Class 'Cart' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 5
+[01-Jul-2016 04:26:05 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 50
+[01-Jul-2016 04:29:50 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 14
+[01-Jul-2016 04:30:04 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 14
+[01-Jul-2016 04:30:54 Pacific/Auckland] PHP Fatal error:  Class 'Cart' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 6
+[01-Jul-2016 07:01:14 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Product::insert() in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 42
+[01-Jul-2016 07:03:09 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Product::insert() in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 43
+[01-Jul-2016 07:03:30 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Product::insert() in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 43
+[01-Jul-2016 07:03:32 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Product::insert() in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 43
+[01-Jul-2016 07:03:42 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Product::insert() in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 43
+[01-Jul-2016 07:03:44 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Product::insert() in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 43
+[01-Jul-2016 07:05:06 Pacific/Auckland] PHP Fatal error:  Class 'Products' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 34
+[01-Jul-2016 07:05:21 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::fill() in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 43
+[01-Jul-2016 07:06:08 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Product::insert() in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 41
+[01-Jul-2016 16:18:09 Pacific/Auckland] PHP Warning:  Missing argument 1 for Admin::edit() in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 92
+[01-Jul-2016 16:18:19 Pacific/Auckland] PHP Warning:  Missing argument 1 for Admin::edit() in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 92
+[01-Jul-2016 16:18:37 Pacific/Auckland] PHP Warning:  Missing argument 1 for Admin::edit() in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 92
+[01-Jul-2016 16:39:15 Pacific/Auckland] PHP Fatal error:  Class 'Upload' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 20
+[01-Jul-2016 16:40:32 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Product::to_folder() in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 44
+[01-Jul-2016 18:12:12 Pacific/Auckland] PHP Warning:  move_uploaded_file(assets/images/1467353532_2016-nissan-gtr-sports-car-urban-night-scene-pearl-white-side-view.jpg): failed to open stream: No such file or directory in /home/garybake/public_html/_Assignments/WE03/app/libraries/upload.lib.php on line 109
+[01-Jul-2016 18:12:12 Pacific/Auckland] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpAmdYKs' to 'assets/images/1467353532_2016-nissan-gtr-sports-car-urban-night-scene-pearl-white-side-view.jpg' in /home/garybake/public_html/_Assignments/WE03/app/libraries/upload.lib.php on line 109
+[01-Jul-2016 18:13:10 Pacific/Auckland] PHP Warning:  move_uploaded_file(assets/images/1467353590_2016-nissan-gtr-sports-car-urban-night-scene-pearl-white-side-view.jpg): failed to open stream: No such file or directory in /home/garybake/public_html/_Assignments/WE03/app/libraries/upload.lib.php on line 109
+[01-Jul-2016 18:13:10 Pacific/Auckland] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpJH8DSS' to 'assets/images/1467353590_2016-nissan-gtr-sports-car-urban-night-scene-pearl-white-side-view.jpg' in /home/garybake/public_html/_Assignments/WE03/app/libraries/upload.lib.php on line 109
+[02-Jul-2016 15:54:06 Pacific/Auckland] PHP Warning:  file_get_contents(app/views/slider.php): failed to open stream: No such file or directory in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php on line 7
+[04-Jul-2016 17:59:24 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '?>', expecting ':' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 10
+[04-Jul-2016 17:59:45 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '}' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 10
+[04-Jul-2016 17:59:53 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 7
+[04-Jul-2016 18:00:07 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 10
+[04-Jul-2016 18:00:13 Pacific/Auckland] PHP Fatal error:  Class 'Auth' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 7
+[04-Jul-2016 18:01:39 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '?>', expecting ':' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 13
+[04-Jul-2016 18:04:26 Pacific/Auckland] PHP Fatal error:  Call to undefined method Form::closed() in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 23
+[04-Jul-2016 23:47:11 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 14
+[04-Jul-2016 23:47:18 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 14
+[04-Jul-2016 23:47:27 Pacific/Auckland] PHP Fatal error:  Class 'Users' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 13
+[04-Jul-2016 23:47:37 Pacific/Auckland] PHP Fatal error:  Cannot use object of type App\Model\User as array in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 14
+[04-Jul-2016 23:47:51 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 14
+[04-Jul-2016 23:48:37 Pacific/Auckland] PHP Warning:  extract() expects parameter 1 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php on line 12
+[05-Jul-2016 00:01:43 Pacific/Auckland] PHP Warning:  extract() expects parameter 1 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php on line 12
+[05-Jul-2016 14:45:08 Pacific/Auckland] PHP Warning:  extract() expects parameter 1 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php on line 12
+[06-Jul-2016 00:27:05 Pacific/Auckland] PHP Warning:  extract() expects parameter 1 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php on line 12
+[06-Jul-2016 11:42:03 Pacific/Auckland] PHP Warning:  extract() expects parameter 1 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php on line 12
+[06-Jul-2016 15:07:41 Pacific/Auckland] PHP Warning:  extract() expects parameter 1 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php on line 12
+[06-Jul-2016 15:23:22 Pacific/Auckland] PHP Warning:  extract() expects parameter 1 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php on line 12
+[06-Jul-2016 15:43:14 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\User::get() in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 14
+[06-Jul-2016 15:44:06 Pacific/Auckland] PHP Warning:  Missing argument 1 for App\Model\Model::where(), called in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 14 and defined in /home/garybake/public_html/_Assignments/WE03/app/libraries/model.lib.php on line 475
+[06-Jul-2016 15:46:12 Pacific/Auckland] PHP Warning:  Missing argument 1 for App\Model\Model::where(), called in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 14 and defined in /home/garybake/public_html/_Assignments/WE03/app/libraries/model.lib.php on line 475
+[06-Jul-2016 15:46:47 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 14
+[06-Jul-2016 15:47:02 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 14
+[06-Jul-2016 15:47:02 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 14
+[06-Jul-2016 15:47:07 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 14
+[06-Jul-2016 15:47:08 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 14
+[06-Jul-2016 15:47:18 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 14
+[06-Jul-2016 15:47:23 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '=' in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 14
+[06-Jul-2016 16:24:24 Pacific/Auckland] PHP Warning:  Missing argument 1 for App\Model\Model::load(), called in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 16 and defined in /home/garybake/public_html/_Assignments/WE03/app/libraries/model.lib.php on line 148
+[06-Jul-2016 16:31:10 Pacific/Auckland] PHP Warning:  extract() expects parameter 1 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php on line 12
+[06-Jul-2016 16:31:12 Pacific/Auckland] PHP Warning:  extract() expects parameter 1 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php on line 12
+[06-Jul-2016 18:03:39 Pacific/Auckland] PHP Fatal error:  Class 'Auth' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 28
+[06-Jul-2016 18:03:46 Pacific/Auckland] PHP Fatal error:  Class 'Auth' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 28
+[07-Jul-2016 22:29:31 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 61
+[07-Jul-2016 22:29:31 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[07-Jul-2016 22:29:46 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 61
+[07-Jul-2016 22:29:46 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[07-Jul-2016 22:29:48 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 61
+[07-Jul-2016 22:29:48 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[07-Jul-2016 22:30:26 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 61
+[07-Jul-2016 22:30:26 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[07-Jul-2016 22:35:20 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 61
+[07-Jul-2016 22:35:20 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[07-Jul-2016 22:35:38 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 61
+[07-Jul-2016 22:35:38 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[07-Jul-2016 22:39:55 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 26
+[07-Jul-2016 22:49:20 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 61
+[07-Jul-2016 22:49:20 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[08-Jul-2016 01:30:46 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 98
+[08-Jul-2016 01:30:46 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[08-Jul-2016 10:30:04 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 61
+[08-Jul-2016 10:30:05 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[08-Jul-2016 10:30:05 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 61
+[08-Jul-2016 10:30:05 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[08-Jul-2016 10:30:05 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 61
+[08-Jul-2016 10:30:05 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[08-Jul-2016 10:30:05 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 61
+[08-Jul-2016 10:30:05 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[08-Jul-2016 10:30:05 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 61
+[08-Jul-2016 10:30:05 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[08-Jul-2016 10:31:31 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 17
+[08-Jul-2016 10:31:51 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 61
+[08-Jul-2016 10:31:51 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[08-Jul-2016 10:31:51 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 61
+[08-Jul-2016 10:31:51 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[08-Jul-2016 10:31:51 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 61
+[08-Jul-2016 10:31:51 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[08-Jul-2016 10:31:51 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 61
+[08-Jul-2016 10:31:51 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[08-Jul-2016 10:31:51 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 61
+[08-Jul-2016 10:31:51 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[08-Jul-2016 11:27:39 Pacific/Auckland] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Site' does not have a method 'search' in /home/garybake/public_html/_Assignments/WE03/app/libraries/route.lib.php on line 105
+[08-Jul-2016 11:28:35 Pacific/Auckland] PHP Fatal error:  Function name must be a string in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 72
+[08-Jul-2016 11:34:55 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'LIKE' (T_STRING) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:35:10 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'LIKE' (T_STRING) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:35:19 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::select() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:35:32 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::select() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:35:34 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::select() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:35:49 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::select() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:35:50 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::select() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:37:47 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'LIKE' (T_STRING) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:37:51 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'LIKE' (T_STRING) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:37:58 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::select() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:38:02 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::select() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:38:10 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::select() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:38:12 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::select() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:38:29 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::select() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:38:30 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::select() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:38:34 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::select() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:38:55 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '*' in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:39:03 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::select() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:39:51 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'LIKE' (T_STRING) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:41:43 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'LIKE' (T_STRING) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:44:20 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '$search' (T_VARIABLE) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:44:29 Pacific/Auckland] PHP Fatal error:  Call to undefined function LIKE() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:44:49 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:45:00 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '$search' (T_VARIABLE) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:45:12 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '$search' (T_VARIABLE) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:46:14 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'LIKE' (T_STRING) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:46:23 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'mysql_real_escape_string' (T_STRING) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:46:25 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'mysql_real_escape_string' (T_STRING) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:49:57 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '.' in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:50:06 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '$search' (T_VARIABLE) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:50:15 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ')' in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:50:26 Pacific/Auckland] PHP Fatal error:  Class 'LIKEhks' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/collection.lib.php on line 63
+[08-Jul-2016 11:50:39 Pacific/Auckland] PHP Fatal error:  Class 'LIKE hks' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/collection.lib.php on line 63
+[08-Jul-2016 11:50:50 Pacific/Auckland] PHP Fatal error:  Class 'LIKE hks' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/collection.lib.php on line 63
+[08-Jul-2016 11:50:53 Pacific/Auckland] PHP Fatal error:  Class 'LIKE hks' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/collection.lib.php on line 63
+[08-Jul-2016 11:51:03 Pacific/Auckland] PHP Fatal error:  Class 'LIKE hks' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/collection.lib.php on line 63
+[08-Jul-2016 11:53:46 Pacific/Auckland] PHP Fatal error:  Class 'LIKE hks' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/collection.lib.php on line 63
+[08-Jul-2016 11:53:48 Pacific/Auckland] PHP Fatal error:  Class 'LIKE hks' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/collection.lib.php on line 63
+[08-Jul-2016 11:54:02 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:54:50 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:54:51 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:55:00 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:55:22 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:55:24 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:55:25 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 76
+[08-Jul-2016 11:58:05 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 11:58:14 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 11:58:28 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'LIKE' (T_STRING) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 11:59:00 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:11:11 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '=' in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:12:14 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:12:22 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:12:30 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:12:32 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:12:37 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:19:09 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Product::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:19:28 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Product::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:19:29 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Product::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:19:31 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Product::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:19:39 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Product::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:19:40 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Product::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:20:09 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:20:54 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:20:56 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:21:18 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:21:20 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:21:35 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:21:37 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:21:38 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:21:48 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:22:03 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 74
+[08-Jul-2016 12:22:04 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 74
+[08-Jul-2016 12:22:12 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:23:01 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:23:02 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:23:30 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:23:34 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:23:57 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:24:05 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:24:07 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:24:25 Pacific/Auckland] PHP Warning:  Missing argument 1 for App\Model\Collection::where(), called in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77 and defined in /home/garybake/public_html/_Assignments/WE03/app/libraries/collection.lib.php on line 99
+[08-Jul-2016 12:24:25 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:24:27 Pacific/Auckland] PHP Warning:  Missing argument 1 for App\Model\Collection::where(), called in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77 and defined in /home/garybake/public_html/_Assignments/WE03/app/libraries/collection.lib.php on line 99
+[08-Jul-2016 12:24:27 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:24:48 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:24:52 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:27:06 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:27:13 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:27:17 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:27:21 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:27:29 Pacific/Auckland] PHP Fatal error:  Call to undefined method App\Model\Products::like() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:28:23 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:28:32 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:30:38 Pacific/Auckland] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/garybake/public_html/_Assignments/WE03/app/libraries/database.lib.php on line 418
+[08-Jul-2016 12:30:48 Pacific/Auckland] PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in /home/garybake/public_html/_Assignments/WE03/app/libraries/database.lib.php on line 418
+[08-Jul-2016 12:32:06 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'LIKE' (T_STRING) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:35:13 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '%' in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:35:25 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '$search' (T_VARIABLE) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:38:06 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '%' in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:38:13 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '%' in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:38:15 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '%' in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:41:19 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '%' in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:41:27 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '%' in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:41:29 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '%' in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:45:41 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '$search' (T_VARIABLE) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 77
+[08-Jul-2016 12:53:39 Pacific/Auckland] PHP Warning:  extract() expects parameter 1 to be array, object given in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php on line 12
+[08-Jul-2016 12:53:39 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 1
+[08-Jul-2016 12:54:26 Pacific/Auckland] PHP Warning:  extract() expects parameter 1 to be array, object given in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php on line 12
+[08-Jul-2016 12:54:26 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 3
+[08-Jul-2016 12:54:34 Pacific/Auckland] PHP Warning:  extract() expects parameter 1 to be array, object given in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php on line 12
+[08-Jul-2016 12:54:34 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '<' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 5
+[08-Jul-2016 12:54:48 Pacific/Auckland] PHP Warning:  extract() expects parameter 1 to be array, object given in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php on line 12
+[08-Jul-2016 12:54:48 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '<' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 5
+[08-Jul-2016 12:54:54 Pacific/Auckland] PHP Warning:  extract() expects parameter 1 to be array, object given in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php on line 12
+[08-Jul-2016 12:54:54 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '<' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 5
+[08-Jul-2016 12:54:57 Pacific/Auckland] PHP Warning:  extract() expects parameter 1 to be array, object given in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php on line 12
+[08-Jul-2016 12:54:57 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '<' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 5
+[08-Jul-2016 12:55:02 Pacific/Auckland] PHP Warning:  extract() expects parameter 1 to be array, object given in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php on line 12
+[08-Jul-2016 12:55:02 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '<' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 5
+[08-Jul-2016 12:56:31 Pacific/Auckland] PHP Warning:  extract() expects parameter 1 to be array, string given in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php on line 12
+[08-Jul-2016 12:56:31 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '<' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 5
+[08-Jul-2016 12:56:41 Pacific/Auckland] PHP Warning:  extract() expects parameter 1 to be array, string given in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php on line 12
+[08-Jul-2016 12:56:41 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '<' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 5
+[08-Jul-2016 12:57:27 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '<' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 5
+[08-Jul-2016 12:57:30 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '<' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 5
+[08-Jul-2016 12:59:05 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '<' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 5
+[08-Jul-2016 12:59:38 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '<' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 5
+[08-Jul-2016 12:59:45 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '<' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 5
+[08-Jul-2016 13:03:08 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 8
+[08-Jul-2016 13:16:40 Pacific/Auckland] PHP Fatal error:  Class 'Auth' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 33
+[08-Jul-2016 15:30:58 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 7
+[08-Jul-2016 15:33:12 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 7
+[14-Jul-2016 01:21:24 Pacific/Auckland] PHP Fatal error:  Class 'Order' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 41
+[14-Jul-2016 01:21:45 Pacific/Auckland] PHP Fatal error:  Class 'App\Order' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 42
+[14-Jul-2016 01:21:58 Pacific/Auckland] PHP Fatal error:  Class 'App\Model\Order' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 42
+[14-Jul-2016 01:22:07 Pacific/Auckland] PHP Fatal error:  Cannot declare class Orders because the name is already in use in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 9
+[14-Jul-2016 01:22:24 Pacific/Auckland] PHP Fatal error:  Call to undefined method Orders::save() in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 45
+[14-Jul-2016 01:49:23 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 98
+[14-Jul-2016 01:49:23 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[14-Jul-2016 01:50:18 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 30
+[14-Jul-2016 01:50:42 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '=' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 30
+[14-Jul-2016 01:54:29 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 39
+[14-Jul-2016 01:55:09 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 39
+[14-Jul-2016 01:55:36 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 61
+[14-Jul-2016 01:55:36 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[14-Jul-2016 03:12:18 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '?' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 14
+[14-Jul-2016 03:19:36 Pacific/Auckland] PHP Fatal error:  Call to undefined method Orders::save() in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 45
+[14-Jul-2016 03:20:41 Pacific/Auckland] PHP Fatal error:  Call to undefined method Orders::save() in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 45
+[14-Jul-2016 03:20:55 Pacific/Auckland] PHP Fatal error:  Call to undefined method Orders::save() in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 45
+[14-Jul-2016 03:20:56 Pacific/Auckland] PHP Fatal error:  Call to undefined method Orders::save() in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 45
+[14-Jul-2016 03:23:48 Pacific/Auckland] PHP Fatal error:  Call to undefined method Orders::save() in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 45
+[14-Jul-2016 03:24:26 Pacific/Auckland] PHP Fatal error:  Call to undefined method Orders::save() in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 45
+[14-Jul-2016 03:24:27 Pacific/Auckland] PHP Fatal error:  Call to undefined method Orders::save() in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 45
+[14-Jul-2016 03:24:28 Pacific/Auckland] PHP Fatal error:  Call to undefined method Orders::save() in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 45
+[14-Jul-2016 03:24:30 Pacific/Auckland] PHP Fatal error:  Call to undefined method Orders::save() in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 45
+[14-Jul-2016 03:24:50 Pacific/Auckland] PHP Fatal error:  Call to undefined method Orders::save() in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 45
+[14-Jul-2016 03:25:10 Pacific/Auckland] PHP Fatal error:  Class 'Order' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 42
+[14-Jul-2016 03:25:35 Pacific/Auckland] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/model.lib.php on line 107
+[14-Jul-2016 03:25:35 Pacific/Auckland] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/model.lib.php on line 107
+[14-Jul-2016 03:27:29 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 28
+[14-Jul-2016 03:27:29 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[14-Jul-2016 03:27:54 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 28
+[14-Jul-2016 03:27:54 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[14-Jul-2016 03:28:08 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 28
+[14-Jul-2016 03:28:08 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[14-Jul-2016 03:28:33 Pacific/Auckland] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/model.lib.php on line 107
+[14-Jul-2016 03:28:33 Pacific/Auckland] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/model.lib.php on line 107
+[14-Jul-2016 03:30:07 Pacific/Auckland] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/model.lib.php on line 107
+[14-Jul-2016 03:30:07 Pacific/Auckland] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/model.lib.php on line 107
+[14-Jul-2016 03:30:08 Pacific/Auckland] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/model.lib.php on line 107
+[14-Jul-2016 03:30:08 Pacific/Auckland] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/model.lib.php on line 107
+[14-Jul-2016 03:30:09 Pacific/Auckland] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/model.lib.php on line 107
+[14-Jul-2016 03:30:09 Pacific/Auckland] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/model.lib.php on line 107
+[14-Jul-2016 03:30:11 Pacific/Auckland] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/model.lib.php on line 107
+[14-Jul-2016 03:30:11 Pacific/Auckland] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/model.lib.php on line 107
+[14-Jul-2016 03:30:40 Pacific/Auckland] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/model.lib.php on line 107
+[14-Jul-2016 03:30:40 Pacific/Auckland] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/model.lib.php on line 107
+[14-Jul-2016 03:31:07 Pacific/Auckland] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/model.lib.php on line 107
+[14-Jul-2016 03:31:07 Pacific/Auckland] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/model.lib.php on line 107
+[14-Jul-2016 03:31:18 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 28
+[14-Jul-2016 03:31:18 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[14-Jul-2016 03:31:20 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 28
+[14-Jul-2016 03:31:20 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[14-Jul-2016 03:31:24 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 28
+[14-Jul-2016 03:31:24 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[14-Jul-2016 03:32:22 Pacific/Auckland] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/model.lib.php on line 107
+[14-Jul-2016 03:32:22 Pacific/Auckland] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/model.lib.php on line 107
+[14-Jul-2016 03:49:51 Pacific/Auckland] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/model.lib.php on line 107
+[14-Jul-2016 03:49:51 Pacific/Auckland] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/garybake/public_html/_Assignments/WE03/app/libraries/model.lib.php on line 107
+[14-Jul-2016 08:12:21 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '?' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 38
+[14-Jul-2016 08:12:31 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '?' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 33
+[14-Jul-2016 08:39:28 Pacific/Auckland] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/garybake/public_html/_Assignments/WE03/app/libraries/database.lib.php on line 38
+[14-Jul-2016 08:39:28 Pacific/Auckland] PHP Warning:  App\Database::__construct(): Couldn't fetch mysqli in /home/garybake/public_html/_Assignments/WE03/app/libraries/database.lib.php on line 40
+[14-Jul-2016 08:39:28 Pacific/Auckland] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/garybake/public_html/_Assignments/WE03/app/libraries/database.lib.php on line 280
+[14-Jul-2016 08:39:28 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/garybake/public_html/_Assignments/WE03/app/libraries/database.lib.php on line 459
+[14-Jul-2016 08:39:30 Pacific/Auckland] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/garybake/public_html/_Assignments/WE03/app/libraries/database.lib.php on line 38
+[14-Jul-2016 08:39:30 Pacific/Auckland] PHP Warning:  App\Database::__construct(): Couldn't fetch mysqli in /home/garybake/public_html/_Assignments/WE03/app/libraries/database.lib.php on line 40
+[14-Jul-2016 08:39:30 Pacific/Auckland] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/garybake/public_html/_Assignments/WE03/app/libraries/database.lib.php on line 280
+[14-Jul-2016 08:39:30 Pacific/Auckland] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/garybake/public_html/_Assignments/WE03/app/libraries/database.lib.php on line 459
+[14-Jul-2016 12:23:21 Pacific/Auckland] PHP Warning:  Missing argument 1 for Admin::edit() in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 97
+[14-Jul-2016 12:24:18 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 28
+[14-Jul-2016 12:24:18 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[14-Jul-2016 12:24:21 Pacific/Auckland] PHP Warning:  array_merge(): Argument #2 is not an array in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 28
+[14-Jul-2016 12:24:21 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/form.lib.php on line 78
+[14-Jul-2016 14:24:12 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 48
+[14-Jul-2016 14:25:10 Pacific/Auckland] PHP Fatal error:  Class 'Orderline' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 54
+[14-Jul-2016 14:25:34 Pacific/Auckland] PHP Fatal error:  Class 'Orderline' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 54
+[14-Jul-2016 14:25:38 Pacific/Auckland] PHP Fatal error:  Class 'Orderline' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 54
+[14-Jul-2016 14:26:01 Pacific/Auckland] PHP Fatal error:  Class 'Orderline' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 54
+[14-Jul-2016 14:26:03 Pacific/Auckland] PHP Fatal error:  Class 'Orderline' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 54
+[14-Jul-2016 14:26:04 Pacific/Auckland] PHP Fatal error:  Class 'Orderline' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 54
+[14-Jul-2016 14:27:40 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ';' in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 44
+[14-Jul-2016 14:28:27 Pacific/Auckland] PHP Fatal error:  Class 'Orderline' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 57
+[14-Jul-2016 14:29:13 Pacific/Auckland] PHP Fatal error:  Class 'Orderline' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 57
+[14-Jul-2016 14:29:16 Pacific/Auckland] PHP Fatal error:  Class 'Orderline' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 57
+[14-Jul-2016 14:29:18 Pacific/Auckland] PHP Fatal error:  Class 'Orderline' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 57
+[14-Jul-2016 14:31:34 Pacific/Auckland] PHP Fatal error:  Class 'Orderline' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 64
+[14-Jul-2016 14:32:07 Pacific/Auckland] PHP Fatal error:  Class 'Orderline' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 64
+[14-Jul-2016 14:33:12 Pacific/Auckland] PHP Fatal error:  Class 'Orderline' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 64
+[14-Jul-2016 14:39:35 Pacific/Auckland] PHP Parse error:  syntax error, unexpected ';' in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 45
+[14-Jul-2016 14:54:38 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 57
+[14-Jul-2016 14:55:29 Pacific/Auckland] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/garybake/public_html/_Assignments/WE03/app/models/orders.model.php on line 3
+[14-Jul-2016 14:55:32 Pacific/Auckland] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/garybake/public_html/_Assignments/WE03/app/models/orders.model.php on line 3
+[14-Jul-2016 15:00:12 Pacific/Auckland] PHP Warning:  Creating default object from empty value in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 46
+[14-Jul-2016 15:00:50 Pacific/Auckland] PHP Warning:  Creating default object from empty value in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 46
+[14-Jul-2016 15:00:52 Pacific/Auckland] PHP Warning:  Creating default object from empty value in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 46
+[14-Jul-2016 15:01:19 Pacific/Auckland] PHP Warning:  Creating default object from empty value in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 46
+[14-Jul-2016 15:01:21 Pacific/Auckland] PHP Warning:  Creating default object from empty value in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 46
+[14-Jul-2016 15:01:22 Pacific/Auckland] PHP Warning:  Creating default object from empty value in /home/garybake/public_html/_Assignments/WE03/app/controllers/orders.php on line 46
+[14-Jul-2016 16:09:08 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 3
+[14-Jul-2016 16:12:26 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting '&' or variable (T_VARIABLE) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 19
+[14-Jul-2016 16:12:31 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '"1"' (T_CONSTANT_ENCAPSED_STRING), expecting '&' or variable (T_VARIABLE) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 19
+[14-Jul-2016 16:12:46 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting '&' or variable (T_VARIABLE) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 19
+[14-Jul-2016 16:13:37 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 21
+[14-Jul-2016 16:14:07 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 21
+[14-Jul-2016 16:14:09 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 21
+[14-Jul-2016 16:14:15 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 21
+[14-Jul-2016 16:14:19 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 21
+[14-Jul-2016 16:14:39 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 21
+[14-Jul-2016 16:14:54 Pacific/Auckland] PHP Fatal error:  Call to undefined method Site::paginate() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 20
+[14-Jul-2016 16:15:31 Pacific/Auckland] PHP Fatal error:  Call to undefined method Site::paginate() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 20
+[14-Jul-2016 16:15:32 Pacific/Auckland] PHP Fatal error:  Call to undefined method Site::paginate() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 20
+[14-Jul-2016 16:15:38 Pacific/Auckland] PHP Fatal error:  Class 'Post' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 32
+[14-Jul-2016 16:16:55 Pacific/Auckland] PHP Fatal error:  Call to a member function limit() on a non-object in /home/garybake/public_html/_Assignments/WE03/app/libraries/collection.lib.php on line 124
+[14-Jul-2016 16:18:20 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 5
+[14-Jul-2016 16:18:44 Pacific/Auckland] PHP Fatal error:  Call to a member function limit() on a non-object in /home/garybake/public_html/_Assignments/WE03/app/libraries/collection.lib.php on line 124
+[14-Jul-2016 16:19:54 Pacific/Auckland] PHP Fatal error:  Call to undefined method Site::paginate() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 20
+[14-Jul-2016 16:21:02 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 5
+[14-Jul-2016 16:21:06 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 5
+[14-Jul-2016 16:21:10 Pacific/Auckland] PHP Warning:  Invalid argument supplied for foreach() in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 5
+[14-Jul-2016 16:24:39 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '=' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 43
+[14-Jul-2016 16:25:00 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 43
+[14-Jul-2016 16:25:02 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 43
+[14-Jul-2016 16:25:29 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '?>', expecting ':' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 45
+[14-Jul-2016 16:27:01 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '?' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 44
+[14-Jul-2016 16:27:40 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '?' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 44
+[14-Jul-2016 16:27:47 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '?' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 44
+[14-Jul-2016 16:28:12 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '?' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 44
+[14-Jul-2016 16:28:15 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '?' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 44
+[14-Jul-2016 16:28:42 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '?' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 44
+[14-Jul-2016 16:28:46 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '?' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 44
+[14-Jul-2016 16:29:09 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '?' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 44
+[14-Jul-2016 16:30:17 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '?' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 44
+[14-Jul-2016 16:30:18 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '?' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 44
+[14-Jul-2016 16:30:20 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '?' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 44
+[14-Jul-2016 16:39:12 Pacific/Auckland] PHP Fatal error:  Call to undefined method Site::paginate() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 20
+[14-Jul-2016 16:39:47 Pacific/Auckland] PHP Fatal error:  Call to undefined method Site::paginate() in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 20
+[14-Jul-2016 16:58:11 Pacific/Auckland] PHP Warning:  Missing argument 1 for Admin::edit() in /home/garybake/public_html/_Assignments/WE03/app/controllers/admin.php on line 97
+[14-Jul-2016 17:00:38 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'url' (T_STRING), expecting ',' or ';' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 28
+[14-Jul-2016 17:02:10 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'url' (T_STRING), expecting ',' or ';' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 28
+[14-Jul-2016 17:02:34 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'url' (T_STRING), expecting ',' or ';' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 28
+[14-Jul-2016 17:02:55 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'url' (T_STRING), expecting ',' or ';' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 28
+[14-Jul-2016 17:57:06 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 23
+[14-Jul-2016 18:05:02 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '<' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 4
+[14-Jul-2016 18:05:07 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '<' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 4
+[14-Jul-2016 18:08:09 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '$product' (T_VARIABLE) in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 4
+[14-Jul-2016 18:08:15 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '$product' (T_VARIABLE) in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 4
+[14-Jul-2016 18:10:15 Pacific/Auckland] PHP Fatal error:  Class 'Auth' not found in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 16
+[14-Jul-2016 18:10:35 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 1
+[14-Jul-2016 18:10:41 Pacific/Auckland] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 1
+[14-Jul-2016 21:13:13 Pacific/Auckland] PHP Fatal error:  Class 'Email' not found in /home/garybake/public_html/_Assignments/WE03/app/controllers/site.php on line 126
+[22-Jul-2016 21:10:03 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '?>', expecting ':' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 43
+[22-Jul-2016 21:16:44 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '?>', expecting ':' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 43
+[22-Jul-2016 21:16:56 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '?>', expecting ':' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 43
+[22-Jul-2016 21:21:01 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '?>', expecting ':' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 43
+[23-Jul-2016 02:03:51 Pacific/Auckland] PHP Parse error:  syntax error, unexpected '?>', expecting ':' in /home/garybake/public_html/_Assignments/WE03/app/libraries/view.lib.php(14) : eval()'d code on line 43

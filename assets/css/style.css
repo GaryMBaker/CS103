@@ -1,0 +1,390 @@
+@import url("header.css");
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	background-image: url('../images/bkgnd.gif');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	width: 100%;
+	height: 100%;
+}
+
+p, li {
+	line-height: 1.5;
+}
+
+.form-container {
+	max-width: 65em;
+	margin: 150px auto 0px;
+	background: #CCC;
+	border-radius: 8px;
+	margin-bottom: 8em;
+	box-shadow: 1em 1em 1em #222;
+}
+
+.form-alignment {
+	margin: 0 auto;
+}
+
+.form-heading {
+	padding: 3em;
+}
+
+.background-container {
+	max-width: 100%;
+	height: 100vh;
+	padding: 2.5em;
+	margin: 0px auto;
+	background: #000;
+	margin-bottom: 8em;
+
+	color: #fff;
+}
+
+.form-container label {
+	width: 10em;
+}
+
+.product-container:nth-of-type(1) {
+	margin-top: 180px;
+}
+
+.center {
+	margin: 0 auto;
+	width: 960px;
+	background: #FFF;
+}
+
+.product-info {
+	padding: 1em;
+	overflow: auto;
+}
+
+.product-contain {
+	position: absolute;
+	left: 0;
+	right: 0; 
+}
+
+.product-container {
+	display: inline-block;
+	width: 300px;
+	padding: 1em;
+	margin: 0 auto;
+	margin-bottom: 3em;
+	border-radius: 8px;
+}
+
+.product-cont {
+	background: #FFF;
+	width: 960px !important;
+    margin: 0 auto;
+}
+
+.product-container .product-cont img {
+	float: right;
+}
+
+.product-content {
+	flex: 8;
+}
+
+.product-container img {
+	width: 300px;
+	flex: 2;
+	float: left;
+}
+
+form {
+	display: inline-block;
+}
+
+.form-alignment form {
+	width: 28em;
+	margin: 2em;
+}
+
+
+.login-form {
+	background: #EBECE4;
+	border-radius: 8px;
+	padding: 1em;
+}
+
+.login-form-row {
+	margin: 1em;
+}
+
+.home-header {
+	background-color: black;
+	max-width: 100%;
+	margin: 0 auto;
+	margin-bottom: 200px;
+}
+
+header {
+	top: 0;
+	margin-bottom: 20em;
+}
+
+nav ul img {
+	background-color: rgba(255,255,255,0.8);
+	height: 275px;
+	width: 275px;
+	left: 8%;
+	top: 80px;
+	position: fixed;
+	margin: 0 auto;
+}
+
+header nav {
+	z-index: 1;
+	position: absolute;
+	max-width: auto;
+	margin: 0 auto;
+	left: 0;
+	right: 0;
+	top: 150px;
+	height: 60px;
+
+
+}
+
+header nav ul {
+	margin: 0 auto;
+	padding: 1em;
+	max-width: 65em;
+	display: flex;
+	justify-content: space-around;
+	border-radius: 0.4em;
+}
+
+header nav ul li {
+	margin: 0.8em;
+	transition: width 10.0s ease-out-in;
+	height: 100%;
+	margin-top: auto;
+	margin-bottom: auto;
+	text-align: center;
+	display: inline-block;
+	list-style: none;
+	flex: 1;
+	background: #F09C0C !important;
+	/*border: 1px solid #000;*/
+}
+
+header nav ul li a {
+	text-decoration: none;
+	text-align: center;
+	width: 100%;
+	height: 100%;
+	display: block;
+	color: #FFF;
+}
+
+
+.button {
+	background-color: #4CAF50;
+	border: none;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	transition-duration: 0.4s;
+	cursor: pointer;
+}
+
+.button2:hover {
+	background-color: white;
+	color: black;
+	border: 2px solid #008CBA;
+}
+
+.button2 {
+	background-color: #008CBA;
+	color: white;
+}
+
+/* The element to apply the animation to */
+.slider {
+	width: 60em;
+	height: 525px;
+	position: relative;
+	overflow: hidden;
+	margin: 4em auto;
+	box-shadow: 0em 0em 1em 0.3em #aaa;
+	z-index: 0;
+	animation: example;
+	animation-duration: 10s;
+	-webkit-animation-delay: 2s;
+	animation-repeat: true;
+	animation-iteration-count: infinite; 
+	animation-timing-function: cubic-bezier(.06,.94,.86,.17);
+	background-image: url("/assets/images/slide.png");
+	background-position: left top;
+	border-radius: 1em;
+}
+
+/* The animation code */
+@keyframes example {
+	0%   {
+		background-image: url("/assets/images/slide.png");
+		background-position: left top;
+	}
+	12%   {
+		background-image: url("/assets/images/slide.png");
+		background-position: left top;
+	}
+	25%  {
+		background-image: url("/assets/images/slide.png");
+		background-position: right top;
+	}
+	37%  {
+		background-image: url("/assets/images/slide.png");
+		background-position: right top;
+	}
+	50%  {
+		background-image: url("/assets/images/slide.png");
+		background-position: right bottom;
+	}
+	62%  {
+		background-image: url("/assets/images/slide.png");
+		background-position: right bottom;
+	}
+	75%  {
+		background-image: url("/assets/images/slide.png");
+		background-position: left bottom;
+	}
+	87%  {
+		background-image: url("/assets/images/slide.png");
+		background-position: left bottom;
+	}
+	100% {
+		background-image: url("/assets/images/slide.png");
+		background-position: left top;
+	}
+}
+
+.form input {
+	float: left; 
+	width: 45%;
+	margin-left: 5%;
+}
+
+tr {
+	
+	padding: 1em;
+}
+
+tr:hover {background-color: #f5f5f5;}
+
+.container {
+	width: 65em;
+	background: #ccc;
+	margin: 100px auto 60px;
+	border-radius: 8px;
+	padding: 2em;
+	box-shadow: 1em 1em 1em #222;
+}
+
+.content-container {
+	opacity: 0.8;
+	max-width: 65em;
+	margin: 0 auto;
+	padding: 2.5em;
+	margin-bottom: 8em;
+	border-radius: 0.4em;
+	color: #000;
+}
+
+.footer-container {
+	display: flex;
+	max-width: 65em;
+	margin: 120px auto;
+	height: auto;
+	padding: 2.5em;
+	background: rgba(255, 255, 255, 0.8);
+	padding-bottom: 10em;
+	margin-bottom: 8em;
+	border-radius: 0.4em;
+	color: #000;
+	box-shadow: 1em 1em 1em #222;
+}
+
+.needles {
+	width: 1040px;
+	left: 0;
+	right: 0;
+	height: 450px;
+	margin: 0 auto;
+	background-image: url("/assets/images/banner_image.jpg");
+	
+}
+
+.hotproducts-container {
+	width: 28em;
+	margin: 0 auto;
+}
+
+.contact-form {
+	width: 28em;
+	margin: 0 auto;
+}
+
+ul form input[type=text] {
+	width: 130px;
+	box-sizing: border-box;
+	border: 2px solid #ccc;
+	border-radius: 4px;
+	font-size: 14px;
+	background-color: white;
+	background-image: url('http://www.w3schools.com/howto/searchicon.png');
+	background-position: 4px 4px;
+	background-repeat: no-repeat;
+	padding: 4px 20px 4px 40px;
+	-webkit-transition: width .4s ease-in-out;
+	transition: width .4s ease-in-out;
+}
+
+ul form input[type=text]:focus {
+	width: 95%;
+}
+
+.product-container:hover {
+	transform: scale(1.1, 1.1);
+
+}
+
+input[name=name], input[name=email] {
+	margin: 1em auto;
+}
+
+.pagination {
+	max-width: 65em;
+	height: 60px;
+	display: block;
+	background: #CCC;
+	margin: 60px auto 100px auto;
+	box-shadow: 1em 1em 1em #222;
+}
+
+.pagination ul {
+	display: flex;
+	padding: 1em;
+}
+
+.pagination ul li {
+	text-align: center;
+	display: inline-block;
+	flex: 1;
+}
